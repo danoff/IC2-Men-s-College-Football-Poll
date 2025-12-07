@@ -168,12 +168,9 @@ This project is licensed under the **Mozilla Public License 2.0**. For full lice
 
 ## Acknowledgments
 
-- **Data Sources**: Sports-Reference.com [Sports-Reference CFB](https://www.sports-reference.com/cfb/) for historical CFB data
-
 **Primary Development**: Charles Danoff, Isaih Battiste, and Chris Hanes  
 **AI Tool Assistance**: This project utilized AI programming assistants (ChatGPT, Claude, and others) for code generation, debugging, and methodological discussion. These systems served as advanced tools in the development process—similar to how mathematicians use calculators or writers use thesauruses—extending human capability while the core insights, analytical framework, and final implementation decisions remain human-originated and directed.
-
-**Data Sources**: Sports-Reference.com for historical CFB data  
+- **Data Sources**: Sports-Reference.com [Sports-Reference CFB](https://www.sports-reference.com/cfb/) for historical CFB data
 **Methodological Inspiration**: [Bowl Championship Series](https://en.wikipedia.org/w/index.php?title=Bowl_Championship_Series&oldid=1324107655), [Colley Matrix](https://colleyrankings.com/), [Massey Ratings](https://masseyratings.com/), other advanced metrics  
 **Community**: The men's College Football analytics community for ongoing discussions
 
