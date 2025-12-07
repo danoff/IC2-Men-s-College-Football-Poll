@@ -57,22 +57,6 @@ Based on analysis of 2014-2024 champions:
 
 ## Results Interpretation
 
-### 📊 **2025 Rankings (Top 10)**
-
-| Rank | Team       |  Win% |  SRS  |  SOS | IC² Score | Profile |
-| :--: | :--------- | :---: | :---: | :--: | :-------: | :-----: |
-|   1  | Ohio State | 1.000 | 24.27 | 3.19 |   96.13   |  2/3 ⚠️ |
-|   2  | Indiana    | 1.000 | 21.99 | 2.91 |   93.34   |  2/3 ⚠️ |
-|   3  | Texas A&M  | 0.917 | 18.68 | 4.85 |   80.23   |   1/3   |
-|   4  | Notre Dame | 0.833 | 21.99 | 5.49 |   78.67   |  2/3 ⚠️ |
-|   5  | BYU        | 0.917 | 17.86 | 5.19 |   78.59   |  2/3 ⚠️ |
-|   6  | Texas Tech | 0.917 | 22.26 | 1.09 |   78.53   |  2/3 ⚠️ |
-|   7  | Oregon     | 0.917 | 19.12 | 3.70 |   77.27   |   1/3   |
-|   8  | Georgia    | 0.917 | 17.18 | 3.26 |   66.58   |   1/3   |
-|   9  | Miami (FL) | 0.833 | 19.25 | 4.25 |   59.93   |   0/3   |
-|  10  | Ole Miss   | 0.917 | 15.17 | 3.09 |   55.07   |   1/3   |
-
-
 ### 📈 Historical Performance **Accuracy (2014-2023)**
 - **80% accuracy** (8/10 champions correctly predicted)
 - **Correct predictions**: 2014, 2015, 2018, 2019, 2020, 2021, 2022, 2023
@@ -95,6 +79,45 @@ Based on analysis of 2014-2024 champions:
 - **Strong Contender**: Meets 2/3 criteria  
 - **One-Dimensional**: Meets 1/3 criteria
 - **Long Shot**: Meets 0/3 criteria
+
+### 🤔 Why IC²?
+
+Traditional polls suffer from:
+- **Recency bias**: Overreacting to last week's results
+- **Brand bias**: Blue bloods get benefit of doubt
+- **Inconsistent criteria**: Different voters value different things
+- **Subjectivity**: No transparency in decision-making
+
+#### **IC² fixes this by:**
+- ✅ Using only objective performance metrics
+- ✅ Training on actual CFP champion data (2014-2024)
+- ✅ Providing transparent, reproducible rankings
+- ✅ Achieving 80% historical accuracy
+- ✅ Zero poll influence
+
+### 📊 **2025 Rankings (Top 10)**
+
+*Last updated: December 6, 2025*
+⚠️ = Strong Contender (meets 2/3 champion criteria)
+
+| Rank | Team       |  Win% |  SRS  |  SOS | IC² Score | Profile |
+| :--: | :--------- | :---: | :---: | :--: | :-------: | :-----: |
+|   1  | Ohio State | 1.000 | 24.27 | 3.19 |   96.13   |  2/3 ⚠️ |
+|   2  | Indiana    | 1.000 | 21.99 | 2.91 |   93.34   |  2/3 ⚠️ |
+|   3  | Texas A&M  | 0.917 | 18.68 | 4.85 |   80.23   |   1/3   |
+|   4  | Notre Dame | 0.833 | 21.99 | 5.49 |   78.67   |  2/3 ⚠️ |
+|   5  | BYU        | 0.917 | 17.86 | 5.19 |   78.59   |  2/3 ⚠️ |
+|   6  | Texas Tech | 0.917 | 22.26 | 1.09 |   78.53   |  2/3 ⚠️ |
+|   7  | Oregon     | 0.917 | 19.12 | 3.70 |   77.27   |   1/3   |
+|   8  | Georgia    | 0.917 | 17.18 | 3.26 |   66.58   |   1/3   |
+|   9  | Miami (FL) | 0.833 | 19.25 | 4.25 |   59.93   |   0/3   |
+|  10  | Ole Miss   | 0.917 | 15.17 | 3.09 |   55.07   |   1/3   |
+
+#### **Key Insights from IC²:**
+- **Texas A&M #3**: Stats-only model recognizes their elite schedule (SOS 4.85) and strong performance
+- **Notre Dame #4**: Elite metrics (SRS 21.99, SOS 5.49) despite 2 losses—most polls underrate them
+- **0 perfect profiles in 2025**: No team meets all 3 champion criteria
+- **Ohio State & Indiana**: Both undefeated but untested (weak schedules may be exposed in playoff)
 
 ## Contributing
 
