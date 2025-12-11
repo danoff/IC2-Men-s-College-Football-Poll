@@ -157,9 +157,9 @@ If you use the IC² Poll in academic work or publications, please cite:
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/danoff/IC2-Men-s-College-Football-Poll}},
-  note = {Logistic regression model trained on 2014-2024 CFP champions. 
-          Developed with assistance from these three artificial intelligence (AI) large language models (LLMs) Claude  Sonnet 4.5 (Anthropic), ChatGPT 5.1 (OpenAI), 
-          and DeepSeek Version 3.2. MPL-2.0 License}
+  note = {Logistic regression model trained on CFP-era data (2014-2024). 
+        Developed with AI assistance from Claude Sonnet 4.5, ChatGPT 5.1, 
+        and DeepSeek V3.2. MPL-2.0 License}
 ```
 
 ## License
@@ -178,7 +178,6 @@ This project is licensed under the **Mozilla Public License 2.0**. For full lice
 
 The project requires Python 3.8+ with the following packages:
 
-**`requirements.txt`**:
 ```
 pandas>=1.5.0
 numpy>=1.21.0
