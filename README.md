@@ -17,11 +17,19 @@ This is an open-source men's American/gridiron college football 🏈 poll that p
 ## Community
 
 Read more details and join the community discussion!
-12/06/2025 Described results and methodology LinkedIn [article](https://www.linkedin.com/pulse/new-open-source-poll-mens-college-football-surcc) ·
-12/06/2025 Shared results on [Twitter/X](https://x.com/FireballFinds/status/1997338915926094094)
-12/05/2025 Announcing primary results Reddit [Post](https://www.reddit.com/r/sportsanalytics/comments/1pfbvmj/) ·
-09/30/2025 Exploratory Reddit [Post](https://www.reddit.com/r/fsusports/comments/1nuq43v/new_homemade_computer_ranking_system/)
-11/20/2024 Inspiration on [Twitter/X](https://x.com/FireballFinds/status/1859242094570701154)
+
+12/06/2025 
+- Described results and methodology LinkedIn [article](https://www.linkedin.com/pulse/new-open-source-poll-mens-college-football-surcc) ·
+- Shared results on [Twitter/X](https://x.com/FireballFinds/status/1997338915926094094)
+
+12/05/2025 
+- Announced primary results Reddit [Post](https://www.reddit.com/r/sportsanalytics/comments/1pfbvmj/) ·
+
+09/30/2025
+- Exploratory Reddit [Post](https://www.reddit.com/r/fsusports/comments/1nuq43v/new_homemade_computer_ranking_system/)
+
+11/20/2024 
+- Inspiration on [Twitter/X](https://x.com/FireballFinds/status/1859242094570701154)
 
 ## Methodology
 
