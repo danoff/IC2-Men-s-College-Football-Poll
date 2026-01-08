@@ -60,6 +60,26 @@ Results are through January 1st, 2026, so they do not include games on the 2nd. 
 | 34 | NC State | 0.615 | 8.01 | 5.63 | 1.2 | — | — | ❌ No | — |
 | 35 | Arizona State | 0.615 | 8.07 | 5.38 | 1.1 | — | — | ❌ No | — |
 
+### **For the first time since we started, a team meet ALL three champion criteria:**
+
+And there are actually two!
+
+#### Indiana (#1) - 97.7 IC² Score
+| Criterion | Threshold | Indiana | Status |
+|:----------|:---------:|:-------:|:------:|
+| Win% | ≥ 0.875 | 1.000 | ✅ |
+| SRS | ≥ 20.1 | 24.05 | ✅ |
+| SOS | ≥ 5.2 | 5.48 | ✅ |
+| **Profile** | — | **3/3** | **🏆** |
+
+#### Oregon (#2) - 92.8 IC² Score
+| Criterion | Threshold | Oregon | Status |
+|:----------|:---------:|:------:|:------:|
+| Win% | ≥ 0.875 | 0.929 | ✅ |
+| SRS | ≥ 20.1 | 22.04 | ✅ |
+| SOS | ≥ 5.2 | 5.97 | ✅ |
+| **Profile** | — | **3/3** | **🏆 ** 
+
 ## Community
 
 Read more details and join the community discussion!
