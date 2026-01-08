@@ -14,9 +14,9 @@
 
 This is an open-source men's American/gridiron college football 🏈 poll that provides quantitative rankings based on championship teams from the College Football Playoff era (2014–Present). This was made by Charles Jeffrey Danoff, Isaih Battiste, and Chris Hanes.
 
-## Revised Poll for Semifinals
+## Revised Poll for Semifinals (January 8th, 2026 Update)
 
-Ahead of the semifinal games that start tonight we have a revised poll! In addition to an updated python Jupyter notebook, we also made the data set avaialble for the first time if you want to run the model on your own!
+Ahead of the semifinal games that start tonight we have a revised poll! In addition to an [updated python Jupyter notebook](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/IC2%20Open%20Source%20College%20Football%20Poll%207%20January%202026%20for%20GitHub.ipynb), we also made the [data set](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/cfb_school_tables_2026-01-02v1.csv) avaialble for the first time if you want to run the model on your own!
 
 Results are through January 1st, 2026, so they do not include games on the 2nd. It is safe to assume Navy would be higher than 31st [following their win](https://www.sports-reference.com/cfb/boxscores/2026-01-02-cincinnati.html).
 
