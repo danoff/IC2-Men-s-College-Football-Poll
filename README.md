@@ -26,7 +26,7 @@ Results are through January 1st, 2026, so they do not include games on the 2nd. 
 |:--------:|:-----|:----:|:---:|:---:|:---------:|:--------:|:----------:|:-------------:|:-----------------:|
 | 1 | Indiana | 1.000 | 24.05 | 5.48 | 97.7 | 1 | 0 | ✅ Yes | ✅ Yes (Final 4) |
 | 2 | Oregon | 0.929 | 22.04 | 5.97 | 92.8 | 5 | +3 | ✅ Yes | ✅ Yes (Final 4) |
-| 3 | Ohio State | 0.857 | 23.03 | 6.18 | 87.5 | 2 | -1 | ✅ Yes | ❌ No (Lost to Oregon) |
+| 3 | Ohio State | 0.857 | 23.03 | 6.18 | 87.5 | 2 | -1 | ✅ Yes | ❌ No (Lost to Miami) |
 | 4 | Miami (FL) | 0.857 | 20.36 | 6.29 | 79.9 | 10 | +6 | ✅ Yes | ✅ Yes (Final 4) |
 | 5 | Notre Dame | 0.833 | 21.73 | 5.23 | 76.3 | — | — | ❌ **No** | — |
 | 6 | Texas Tech | 0.857 | 21.56 | 3.34 | 73.7 | 4 | -2 | ✅ Yes | ❌ No (Lost to Oregon) |
