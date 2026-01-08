@@ -18,7 +18,7 @@ This is an open-source men's American/gridiron college football 🏈 poll that p
 
 Ahead of the semifinal games that start tonight we have a revised poll! In addition to an updated python Jupyter notebook, we also made the data set avaialble for the first time if you want to run the model on your own!
 
-Results are through January 1st, 2026, so they do not include games on the 2nd. It is safe to assume Navy would be higher than 31st [https://www.sports-reference.com/cfb/boxscores/2026-01-02-cincinnati.html](following their win).
+Results are through January 1st, 2026, so they do not include games on the 2nd. It is safe to assume Navy would be higher than 31st [following their win](https://www.sports-reference.com/cfb/boxscores/2026-01-02-cincinnati.html).
 
 ### Full Top 35 Comparison Table
 
