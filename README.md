@@ -64,6 +64,18 @@ Results are through January 1st, 2026, so they do not include games on the 2nd. 
 
 Read more details and join the community discussion!
 
+12/30/2025
+- Posted [new ranking on Bluesky](https://bsky.app/profile/teachinglaboratory.bsky.social/post/3mbb2ixk4dk2s) ahead of quarterfinal
+
+12/23/2025
+- Tweeted about [revised poll](https://x.com/fireballfinds/status/2003499507779289422)
+
+12/22/2025
+- Posted [Revised Rankings for IC² Open Source Men's College 🏈 Poll following first weekend of CFP!](https://www.reddit.com/r/sportsanalytics/comments/1ptfyjm/revised_rankings_for_ic%C2%B2_open_source_mens_college/) on Reddit
+
+12/19/2025
+- Posted [New Rankings for IC² Open Source Men's College 🏈 Poll!](https://www.reddit.com/r/sportsanalytics/comments/1pqn81j/new_rankings_for_ic²_open_source_mens_college_poll/) on Reddit 
+
 12/06/2025 
 - Described results and methodology LinkedIn [article](https://www.linkedin.com/pulse/new-open-source-poll-mens-college-football-surcc) ·
 - Shared results on [Twitter/X](https://x.com/FireballFinds/status/1997338915926094094)
