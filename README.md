@@ -12,7 +12,53 @@
 
 **A [CFP](https://en.wikipedia.org/wiki/College_Football_Playoff)-Era Statistical Ranking System with 80% Championship Prediction Accuracy**
 
-This is an open-source men's American/gridiron college football 🏈 poll that provides quantitative rankings based on championship teams from the College Football Playoff era (2014–Present).
+This is an open-source men's American/gridiron college football 🏈 poll that provides quantitative rankings based on championship teams from the College Football Playoff era (2014–Present). This was made by Charles Jeffrey Danoff, Isaih Battiste, and Chris Hanes.
+
+## Revised Poll for Semifinals
+
+Ahead of the semifinal games that start tonight we have a revised poll! In addition to an updated python Jupyter notebook, we also made the data set avaialble for the first time if you want to run the model on your own!
+
+Results are through January 1st, 2026, so they do not include games on the 2nd (safe to assume Navy would be higher [https://www.sports-reference.com/cfb/boxscores/2026-01-02-cincinnati.html](following their win)).
+
+### Full Top 35 Comparison Table
+
+| IC² Rank | Team | Win% | SRS | SOS | IC² Score | CFP Seed | Difference | Made Playoff? | Alive in Playoff? |
+|:--------:|:-----|:----:|:---:|:---:|:---------:|:--------:|:----------:|:-------------:|:-----------------:|
+| 1 | Indiana | 1.000 | 24.05 | 5.48 | 97.7 | 1 | 0 | ✅ Yes | ✅ Yes (Final 4) |
+| 2 | Oregon | 0.929 | 22.04 | 5.97 | 92.8 | 5 | +3 | ✅ Yes | ✅ Yes (Final 4) |
+| 3 | Ohio State | 0.857 | 23.03 | 6.18 | 87.5 | 2 | -1 | ✅ Yes | ❌ No (Lost to Oregon) |
+| 4 | Miami (FL) | 0.857 | 20.36 | 6.29 | 79.9 | 10 | +6 | ✅ Yes | ✅ Yes (Final 4) |
+| 5 | Notre Dame | 0.833 | 21.73 | 5.23 | 76.3 | — | — | ❌ **No** | — |
+| 6 | Texas Tech | 0.857 | 21.56 | 3.34 | 73.7 | 4 | -2 | ✅ Yes | ❌ No (Lost to Oregon) |
+| 7 | Ole Miss | 0.929 | 16.56 | 3.99 | 71.9 | 6 | -1 | ✅ Yes | ✅ Yes (Final 4) |
+| 8 | Texas A&M | 0.846 | 17.77 | 5.54 | 62.7 | 7 | -1 | ✅ Yes | ❌ No (Lost to Miami) |
+| 9 | BYU | 0.857 | 16.09 | 6.45 | 61.6 | — | — | ❌ No | — |
+| 10 | Georgia | 0.857 | 17.50 | 4.57 | 59.7 | 3 | -7 | ✅ Yes | ❌ No (Lost to Ole Miss) |
+| 11 | Utah | 0.846 | 17.99 | 2.60 | 48.9 | — | — | ❌ No | — |
+| 12 | Alabama | 0.733 | 13.29 | 7.42 | 19.0 | 9 | -3 | ✅ Yes | ❌ No (Lost to Indiana) |
+| 13 | Oklahoma | 0.769 | 13.28 | 5.13 | 18.4 | 8 | -5 | ✅ Yes | ❌ No (Lost to Alabama) |
+| 14 | Vanderbilt | 0.769 | 14.75 | 3.06 | 16.8 | — | — | ❌ No | — |
+| 15 | Texas | 0.769 | 12.64 | 4.72 | 15.2 | — | — | ❌ No | — |
+| 16 | USC | 0.692 | 14.88 | 6.34 | 13.9 | — | — | ❌ No | — |
+| 17 | Iowa | 0.692 | 13.99 | 4.53 | 8.4 | — | — | ❌ No | — |
+| 18 | Arizona | 0.750 | 12.47 | 2.55 | 8.0 | — | — | ❌ No | — |
+| 19 | Illinois | 0.692 | 11.74 | 6.13 | 7.2 | — | — | ❌ No | — |
+| 20 | Virginia | 0.786 | 10.93 | 1.36 | 7.0 | — | — | ❌ No | — |
+| 21 | James Madison | 0.857 | 10.60 | -2.55 | 6.8 | 12 | -9 | ✅ Yes | ❌ No (Lost to Oregon) |
+| 22 | Michigan | 0.692 | 11.11 | 5.96 | 6.1 | — | — | ❌ No | — |
+| 23 | North Texas | 0.857 | 10.01 | -2.85 | 5.7 | — | — | ❌ No | — |
+| 24 | Washington | 0.692 | 13.14 | 3.45 | 5.7 | — | — | ❌ No | — |
+| 25 | TCU | 0.692 | 9.48 | 4.17 | 3.0 | — | — | ❌ No | — |
+| 26 | Tulane | 0.786 | 6.75 | 1.46 | 3.0 | 11 | -15 | ✅ Yes | ❌ No (Lost to Ole Miss) |
+| 27 | Houston | 0.769 | 7.79 | 1.02 | 2.8 | — | — | ❌ No | — |
+| 28 | Louisville | 0.692 | 9.19 | 2.50 | 2.0 | — | — | ❌ No | — |
+| 29 | Iowa State | 0.667 | 9.46 | 3.46 | 1.9 | — | — | ❌ No | — |
+| 30 | Georgia Tech | 0.692 | 8.45 | 2.22 | 1.6 | — | — | ❌ No | — |
+| 31 | Navy | 0.833 | 4.50 | -1.84 | 1.6 | — | — | ❌ No | — |
+| 32 | SMU | 0.667 | 10.44 | 1.03 | 1.5 | — | — | ❌ No | — |
+| 33 | South Florida | 0.692 | 10.63 | -0.68 | 1.4 | — | — | ❌ No | — |
+| 34 | NC State | 0.615 | 8.01 | 5.63 | 1.2 | — | — | ❌ No | — |
+| 35 | Arizona State | 0.615 | 8.07 | 5.38 | 1.1 | — | — | ❌ No | — |
 
 ## Community
 
