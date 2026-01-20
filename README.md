@@ -14,6 +14,48 @@
 
 This is an open-source men's American/gridiron college football 🏈 poll that provides quantitative rankings based on championship teams from the College Football Playoff era (2014–Present). This was made by Charles Jeffrey Danoff, Isaih Battiste, and Chris Hanes.
 
+## Revised Poll for Championship (January 19th, 2026 Update)
+
+This final poll before the championship game includes results through January 10th.
+
+| IC² Rank | Team           |    Win%   |    SRS    |    SOS   | IC² Score | CFP Seed | Difference | Made Playoff? |    Alive in Playoff?    |
+| :------: | :------------- | :-------: | :-------: | :------: | :-------: | :------: | :--------: | :-----------: | :---------------------: |
+|     1    | **Indiana**    | **1.000** | **25.35** | **6.41** |  **98.6** |     1    |      0     |     ✅ Yes     |   ✅ Yes (**Final 4**)   |
+|     2    | Ohio State     |   0.857   |   23.09   |   6.23   |    87.7   |     2    |      0     |     ✅ Yes     |   ❌ No (Lost to Miami)  |
+|     3    | Oregon         |   0.867   |   20.59   |   7.19   |    85.0   |     5    |     +2     |     ✅ Yes     |     ❌ No (Lost to Indiana)  |
+|     4    | **Miami (FL)** | **0.867** | **20.65** | **7.05** |  **84.8** |    10    |     +6     |     ✅ Yes     |   ✅ Yes (**Final 4**)   |
+|     5    | Notre Dame     |   0.833   |   21.90   |   5.40   |    77.6   |     —    |      —     |    ❌ No   |            —            |
+|     6    | Texas Tech     |   0.857   |   21.08   |   2.86   |    69.8   |     4    |     -2     |     ✅ Yes     |  ❌ No (Lost to Oregon)  |
+|     7    | Texas A&M      |   0.846   |   17.66   |   5.43   |    61.6   |     7    |      0     |     ✅ Yes     |   ❌ No (Lost to Miami)  |
+|     8    | Georgia        |   0.857   |   17.35   |   4.43   |    58.3   |     3    |     -5     |     ✅ Yes     | ❌ No (Lost to Ole Miss) |
+|     9    | Ole Miss   | 0.867 | 16.24 | 4.97 |  58.0 |     6    |     -3     |     ✅ Yes     |    ❌ No (Lost to Miami)   |
+|    10    | BYU            |   0.857   |   15.60   |   5.95   |    56.5   |     —    |      —     |      ❌ No     |            —            |
+|    11    | Utah           |   0.846   |   17.51   |   2.12   |    44.2   |     —    |      —     |      ❌ No     |            —            |
+|    12    | Alabama        |   0.733   |   13.32   |   7.45   |    18.9   |     9    |     -3     |     ✅ Yes     |  ❌ No (Lost to Indiana) |
+|    13    | Oklahoma       |   0.769   |   13.20   |   5.05   |    17.8   |     8    |     -5     |     ✅ Yes     |  ❌ No (Lost to Alabama) |
+|    14    | Vanderbilt     |   0.769   |   14.69   |   3.00   |    16.5   |     —    |      —     |      ❌ No     |            —            |
+|    15    | Texas          |   0.769   |   12.50   |   4.58   |    14.4   |     —    |      —     |      ❌ No     |            —            |
+|    16    | USC            |   0.692   |   14.72   |   6.18   |    12.9   |     —    |      —     |      ❌ No     |            —            |
+|    17    | Iowa           |   0.692   |   13.86   |   4.40   |    7.9    |     —    |      —     |      ❌ No     |            —            |
+|    18    | Virginia       |   0.786   |   11.05   |   1.48   |    7.4    |     —    |      —     |      ❌ No     |            —            |
+|    19    | Illinois       |   0.692   |   11.80   |   6.18   |    7.2    |     —    |      —     |      ❌ No     |            —            |
+|    20    | James Madison  |   0.857   |   10.62   |   -2.52  |    7.2    |    12    |     -8     |     ✅ Yes     |  ❌ No (Lost to Oregon)  |
+|    21    | North Texas    |   0.857   |   10.08   |   -2.78  |    6.1    |     —    |      —     |      ❌ No     |            —            |
+|    22    | Michigan       |   0.692   |   11.04   |   5.89   |    5.8    |     —    |      —     |      ❌ No     |            —            |
+|    23    | Washington     |   0.692   |   13.01   |   3.32   |    5.4    |     —    |      —     |      ❌ No     |            —            |
+|    24    | Arizona        |   0.692   |   11.29   |   2.68   |    3.3    |     —    |      —     |      ❌ No     |            —            |
+|    25    | Navy           |   0.846   |    6.12   |   -1.42  |    3.0    |     —    |      —     |      ❌ No     |            —            |
+|    26    | Tulane         |   0.786   |    6.75   |   1.46   |    3.0    |    11    |     -15    |     ✅ Yes     | ❌ No (Lost to Ole Miss) |
+|    27    | SMU            |   0.692   |   11.11   |   1.88   |    2.7    |     —    |      —     |      ❌ No     |            —            |
+|    28    | TCU            |   0.692   |    9.07   |   3.76   |    2.5    |     —    |      —     |      ❌ No     |            —            |
+|    29    | Houston        |   0.769   |    7.31   |   0.54   |    2.3    |     —    |      —     |      ❌ No     |            —            |
+|    30    | Louisville     |   0.692   |    9.28   |   2.59   |    2.1    |     —    |      —     |      ❌ No     |            —            |
+|    31    | Georgia Tech   |   0.692   |    8.51   |   2.28   |    1.7    |     —    |      —     |      ❌ No     |            —            |
+|    32    | Iowa State     |   0.667   |    8.89   |   2.89   |    1.5    |     —    |      —     |      ❌ No     |            —            |
+|    33    | South Florida  |   0.692   |   10.71   |   -0.60  |    1.5    |     —    |      —     |      ❌ No     |            —            |
+|    34    | NC State       |   0.615   |    8.18   |   5.79   |    1.2    |     —    |      —     |      ❌ No     |            —            |
+|    35    | Old Dominion   |   0.769   |    6.88   |   -3.12  |    1.0    |     —    |      —     |      ❌ No     |            —            |
+
 ## Revised Poll for Semifinals (January 8th, 2026 Update)
 
 Ahead of the semifinal games that start tonight we have a revised poll! In addition to an [updated python Jupyter notebook](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/IC2%20Open%20Source%20College%20Football%20Poll%207%20January%202026%20for%20GitHub.ipynb), we also made the [data set](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/cfb_school_tables_2026-01-02v1.csv) avaialble for the first time if you want to run the model on your own!
