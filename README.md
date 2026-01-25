@@ -6,13 +6,17 @@
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Notebooks](https://img.shields.io/badge/notebooks-Jupyter-orange)](https://github.com/danoff/IC2-Men-s-College-Football-Poll/tree/main/notebooks)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Last Updated](https://img.shields.io/badge/updated-December%202025-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-January%202026-blue)]()
 [![GitHub Issues](https://img.shields.io/github/issues/danoff/IC2-Men-s-College-Football-Poll)](https://github.com/danoff/IC2-Men-s-College-Football-Poll/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/danoff/IC2-Men-s-College-Football-Poll)](https://github.com/danoff/IC2-Men-s-College-Football-Poll/stargazers)
 
 **A [CFP](https://en.wikipedia.org/wiki/College_Football_Playoff)-Era Statistical Ranking System with 80% Championship Prediction Accuracy**
 
 This is an open-source men's American/gridiron college football 🏈 poll that provides quantitative rankings based on championship teams from the College Football Playoff era (2014–Present). This was made by Charles Jeffrey Danoff, Isaih Battiste, and Chris Hanes.
+
+## Added Python File for Scraping Data
+
+Added two new python files to the repo used for scraping and the initial data file from November 2025.
 
 ## Revised Poll for Championship (January 19th, 2026 Update)
 
