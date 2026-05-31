@@ -191,12 +191,7 @@ And there are actually two!
 | **Profile** | — | **3/3** | **🏆 ** 
 
 
-### Nov. '25 Update: Added Python File for Scraping Data
-
-Added two new python files to the repo used for scraping and the initial data file from November 2025.
-
-
-### 6 Ded '25 Update: 📊 2025 Rankings (Top 10)
+### 6 Dec '25 Update: 📊 2025 Rankings (Top 10)
 
 ⚠️ = Strong Contender (meets 2/3 champion criteria)
 
@@ -218,6 +213,11 @@ Added two new python files to the repo used for scraping and the initial data fi
 - **Notre Dame #4**: Elite metrics (SRS 21.99, SOS 5.49) despite 2 losses—most polls underrate them
 - **0 perfect profiles in 2025**: No team meets all 3 champion criteria
 - **Ohio State & Indiana**: Both undefeated but untested (weak schedules may be exposed in playoff)
+
+
+### Nov. '25 Update: Added Python File for Scraping Data
+
+Added two new python files to the repo used for scraping and the initial data file from November 2025.
 
 
 ## Methodology
