@@ -10,13 +10,19 @@
 [![GitHub Issues](https://img.shields.io/github/issues/danoff/IC2-Men-s-College-Football-Poll)](https://github.com/danoff/IC2-Men-s-College-Football-Poll/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/danoff/IC2-Men-s-College-Football-Poll)](https://github.com/danoff/IC2-Men-s-College-Football-Poll/stargazers)
 
+## License
+
+This project is licensed under the [Mozilla Public License 2.0](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/LICENSE).
+
 ## 30 May 2026 Update: Conference Paper
 
 On June 1, 2026 from 16:35 to 16:50 Pacific Daylight Time (PDT) Charles Jeffrey Danoff and Isaih Battiste will be [presenting about our paper](https://formal-analysis.com/isace/2026/isace2026-program.pdf) *Design, Deployment, and Evaluation of an Open-Source College Football Championship Prediction Model* at the [3rd International Sports Analytics Conference and Exhibition](https://formal-analysis.com/isace/2026/) (ISACE).
 
 Please [read a PDF version of the preprint here](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/isace%202026%20submission%20draft%202%20camera%20ready.pdf) on GitHub.
 
-The paper started with this repository for an open-source men's American/gridiron college football 🏈 [CFP](https://en.wikipedia.org/wiki/College_Football_Playoff)-Era (2014–Present) statistical ranking system that provides quantitative rankings. It has  80% Championship Prediction Accuracy.
+The paper started with this repository for an open-source men's American/gridiron college football 🏈 [CFP](https://en.wikipedia.org/wiki/College_Football_Playoff)-Era (2014–Present) statistical ranking system that provides quantitative rankings. It has  80% Championship Prediction Accuracy. 
+
+
 
 ## 19 Jan '26 Update: Revised Poll for Championship 
 
@@ -305,9 +311,7 @@ If you use the IC² Poll in academic work or publications, please cite:
         and DeepSeek V3.2. MPL-2.0 License}
 ```
 
-## License
 
-This project is licensed under the **Mozilla Public License 2.0**. For full license details, visit: [https://www.mozilla.org/en-US/MPL/2.0/](https://www.mozilla.org/en-US/MPL/2.0/)
 
 ## Acknowledgments
 
