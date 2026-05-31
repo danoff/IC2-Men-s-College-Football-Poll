@@ -12,15 +12,77 @@
 
 This project is licensed under the [Mozilla Public License 2.0](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/LICENSE).
 
-## 30 May 2026 Update: Conference Paper
-
-On June 1, 2026 from 16:35 to 16:50 Pacific Daylight Time (PDT) Charles Jeffrey Danoff and Isaih Battiste will be [presenting about our paper](https://formal-analysis.com/isace/2026/isace2026-program.pdf) *Design, Deployment, and Evaluation of an Open-Source College Football Championship Prediction Model* at the [3rd International Sports Analytics Conference and Exhibition](https://formal-analysis.com/isace/2026/) (ISACE).
+On June 1, 2026 from Charles Jeffrey Danoff and Isaih Battiste will give a presentation about their paper *Design, Deployment, and Evaluation of an Open-Source College Football Championship Prediction Model* at the [3rd International Sports Analytics Conference and Exhibition](https://formal-analysis.com/isace/2026/) (ISACE).
 
 Please [read a PDF version of the preprint here](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/isace%202026%20submission%20draft%202%20camera%20ready.pdf) on GitHub.
 
 The paper started with this repository for an open-source men's American/gridiron college football 🏈 [CFP](https://en.wikipedia.org/wiki/College_Football_Playoff)-Era (2014–Present) statistical ranking system that provides quantitative rankings. It has  80% Championship Prediction Accuracy. 
 
-## 19 Jan '26 Update: Revised Poll for Championship 
+## Community
+
+N.B. Some Reddit posts may not currently be viewable.
+
+Read more details and join the community discussion!
+
+12/30/2025
+- Posted [new ranking on Bluesky](https://bsky.app/profile/teachinglaboratory.bsky.social/post/3mbb2ixk4dk2s) ahead of quarterfinal
+
+12/23/2025
+- Tweeted about [revised poll](https://x.com/fireballfinds/status/2003499507779289422)
+
+12/22/2025
+- Posted [Revised Rankings for IC² Open Source Men's College 🏈 Poll following first weekend of CFP!](https://www.reddit.com/r/sportsanalytics/comments/1ptfyjm/revised_rankings_for_ic%C2%B2_open_source_mens_college/) on Reddit
+
+12/19/2025
+- Posted [New Rankings for IC² Open Source Men's College 🏈 Poll!](https://www.reddit.com/r/sportsanalytics/comments/1pqn81j/new_rankings_for_ic²_open_source_mens_college_poll/) on Reddit 
+
+12/06/2025 
+- Described results and methodology LinkedIn [article](https://www.linkedin.com/pulse/new-open-source-poll-mens-college-football-surcc) ·
+- Shared results on [Twitter/X](https://x.com/FireballFinds/status/1997338915926094094)
+
+12/05/2025 
+- Announced primary results Reddit [Post](https://www.reddit.com/r/sportsanalytics/comments/1pfbvmj/) ·
+
+09/30/2025
+- Exploratory Reddit [Post](https://www.reddit.com/r/fsusports/comments/1nuq43v/new_homemade_computer_ranking_system/)
+
+11/20/2024 
+- Inspiration on [Twitter/X](https://x.com/FireballFinds/status/1859242094570701154)
+
+
+### Contributing
+
+We welcome contributions! Here's how you can help:
+
+#### Reporting Issues
+Found a bug or have a suggestion? [Open an issue](https://github.com/danoff/IC2-Men-s-College-Football-Poll/issues).
+
+#### Feature Requests
+Suggest new features or improvements:
+- Additional statistical features
+- Alternative modeling approaches
+- Visualization enhancements
+- Historical data expansion
+
+#### Pull Requests
+
+We like pull requests (PRs)!
+
+#### Additional Areas for Contribution
+- **Data**: Collect additional seasons or advanced metrics
+- **Models**: Experiment with different algorithms
+- **Visualization**: Create interactive dashboards
+- **Documentation**: Improve methodology explanations
+- **Tutorials**
+- Testing + CI improvements
+
+## Project News and Updates
+
+### 30 May 2026 Update: Conference Paper
+
+On June 1, 2026 from 16:35 to 16:50 Pacific Daylight Time (PDT) at ISACE Charles and Isaih will be [presenting their paper findings](https://formal-analysis.com/isace/2026/isace2026-program.pdf).
+
+### 19 Jan '26 Update: Revised Poll for Championship 
 
 This final poll before the championship game includes results through January 10th.
 
@@ -62,13 +124,13 @@ This final poll before the championship game includes results through January 10
 |    34    | NC State       |   0.615   |    8.18   |   5.79   |    1.2    |     —    |      —     |      ❌ No     |            —            |
 |    35    | Old Dominion   |   0.769   |    6.88   |   -3.12  |    1.0    |     —    |      —     |      ❌ No     |            —            |
 
-## 8 Jan '26 Update: Revised Poll for Semifinals
+### 8 Jan '26 Update: Revised Poll for Semifinals
 
 Ahead of the semifinal games that start tonight we have a revised poll! In addition to an [updated python Jupyter notebook](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/IC2%20Open%20Source%20College%20Football%20Poll%207%20January%202026%20for%20GitHub.ipynb), we also made the [data set](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/cfb_school_tables_2026-01-02v1.csv) avaialble for the first time if you want to run the model on your own!
 
 Results are through January 1st, 2026, so they do not include games on the 2nd. It is safe to assume Navy would be higher than 31st [following their win](https://www.sports-reference.com/cfb/boxscores/2026-01-02-cincinnati.html).
 
-### Full Top 35 Comparison Table
+#### Full Top 35 Comparison Table
 
 | IC² Rank | Team | Win% | SRS | SOS | IC² Score | CFP Seed | Difference | Made Playoff? | Alive in Playoff? |
 |:--------:|:-----|:----:|:---:|:---:|:---------:|:--------:|:----------:|:-------------:|:-----------------:|
@@ -108,11 +170,11 @@ Results are through January 1st, 2026, so they do not include games on the 2nd. 
 | 34 | NC State | 0.615 | 8.01 | 5.63 | 1.2 | — | — | ❌ No | — |
 | 35 | Arizona State | 0.615 | 8.07 | 5.38 | 1.1 | — | — | ❌ No | — |
 
-### **For the first time since we started, a team meet ALL three champion criteria:**
+#### **For the first time since we started, a team meet ALL three champion criteria:**
 
 And there are actually two!
 
-#### Indiana (#1) - 97.7 IC² Score
+##### Indiana (#1) - 97.7 IC² Score
 | Criterion | Threshold | Indiana | Status |
 |:----------|:---------:|:-------:|:------:|
 | Win% | ≥ 0.875 | 1.000 | ✅ |
@@ -120,7 +182,7 @@ And there are actually two!
 | SOS | ≥ 5.2 | 5.48 | ✅ |
 | **Profile** | — | **3/3** | **🏆** |
 
-#### Oregon (#2) - 92.8 IC² Score
+##### Oregon (#2) - 92.8 IC² Score
 | Criterion | Threshold | Oregon | Status |
 |:----------|:---------:|:------:|:------:|
 | Win% | ≥ 0.875 | 0.929 | ✅ |
@@ -129,40 +191,34 @@ And there are actually two!
 | **Profile** | — | **3/3** | **🏆 ** 
 
 
-## Nov. '25 Update: Added Python File for Scraping Data
+### Nov. '25 Update: Added Python File for Scraping Data
 
 Added two new python files to the repo used for scraping and the initial data file from November 2025.
 
-## Community
 
-N.B. Some Reddit posts may not currently be viewable.
+### 6 Ded '25 Update: 📊 2025 Rankings (Top 10)
 
-Read more details and join the community discussion!
+⚠️ = Strong Contender (meets 2/3 champion criteria)
 
-12/30/2025
-- Posted [new ranking on Bluesky](https://bsky.app/profile/teachinglaboratory.bsky.social/post/3mbb2ixk4dk2s) ahead of quarterfinal
+| Rank | Team       |  Win% |  SRS  |  SOS | IC² Score | Profile |
+| :--: | :--------- | :---: | :---: | :--: | :-------: | :-----: |
+|   1  | Ohio State | 1.000 | 24.27 | 3.19 |   96.13   |  2/3 ⚠️ |
+|   2  | Indiana    | 1.000 | 21.99 | 2.91 |   93.34   |  2/3 ⚠️ |
+|   3  | Texas A&M  | 0.917 | 18.68 | 4.85 |   80.23   |   1/3   |
+|   4  | Notre Dame | 0.833 | 21.99 | 5.49 |   78.67   |  2/3 ⚠️ |
+|   5  | BYU        | 0.917 | 17.86 | 5.19 |   78.59   |  2/3 ⚠️ |
+|   6  | Texas Tech | 0.917 | 22.26 | 1.09 |   78.53   |  2/3 ⚠️ |
+|   7  | Oregon     | 0.917 | 19.12 | 3.70 |   77.27   |   1/3   |
+|   8  | Georgia    | 0.917 | 17.18 | 3.26 |   66.58   |   1/3   |
+|   9  | Miami (FL) | 0.833 | 19.25 | 4.25 |   59.93   |   0/3   |
+|  10  | Ole Miss   | 0.917 | 15.17 | 3.09 |   55.07   |   1/3   |
 
-12/23/2025
-- Tweeted about [revised poll](https://x.com/fireballfinds/status/2003499507779289422)
+#### **Key Insights from IC²:**
+- **Texas A&M #3**: Stats-only model recognizes their elite schedule (SOS 4.85) and strong performance
+- **Notre Dame #4**: Elite metrics (SRS 21.99, SOS 5.49) despite 2 losses—most polls underrate them
+- **0 perfect profiles in 2025**: No team meets all 3 champion criteria
+- **Ohio State & Indiana**: Both undefeated but untested (weak schedules may be exposed in playoff)
 
-12/22/2025
-- Posted [Revised Rankings for IC² Open Source Men's College 🏈 Poll following first weekend of CFP!](https://www.reddit.com/r/sportsanalytics/comments/1ptfyjm/revised_rankings_for_ic%C2%B2_open_source_mens_college/) on Reddit
-
-12/19/2025
-- Posted [New Rankings for IC² Open Source Men's College 🏈 Poll!](https://www.reddit.com/r/sportsanalytics/comments/1pqn81j/new_rankings_for_ic²_open_source_mens_college_poll/) on Reddit 
-
-12/06/2025 
-- Described results and methodology LinkedIn [article](https://www.linkedin.com/pulse/new-open-source-poll-mens-college-football-surcc) ·
-- Shared results on [Twitter/X](https://x.com/FireballFinds/status/1997338915926094094)
-
-12/05/2025 
-- Announced primary results Reddit [Post](https://www.reddit.com/r/sportsanalytics/comments/1pfbvmj/) ·
-
-09/30/2025
-- Exploratory Reddit [Post](https://www.reddit.com/r/fsusports/comments/1nuq43v/new_homemade_computer_ranking_system/)
-
-11/20/2024 
-- Inspiration on [Twitter/X](https://x.com/FireballFinds/status/1859242094570701154)
 
 ## Methodology
 
@@ -240,55 +296,6 @@ Traditional polls suffer from:
 - ✅ Achieving 80% historical accuracy
 - ✅ Zero poll influence
 
-### 📊 **2025 Rankings (Top 10)**
-
-*Last updated: December 6, 2025*
-⚠️ = Strong Contender (meets 2/3 champion criteria)
-
-| Rank | Team       |  Win% |  SRS  |  SOS | IC² Score | Profile |
-| :--: | :--------- | :---: | :---: | :--: | :-------: | :-----: |
-|   1  | Ohio State | 1.000 | 24.27 | 3.19 |   96.13   |  2/3 ⚠️ |
-|   2  | Indiana    | 1.000 | 21.99 | 2.91 |   93.34   |  2/3 ⚠️ |
-|   3  | Texas A&M  | 0.917 | 18.68 | 4.85 |   80.23   |   1/3   |
-|   4  | Notre Dame | 0.833 | 21.99 | 5.49 |   78.67   |  2/3 ⚠️ |
-|   5  | BYU        | 0.917 | 17.86 | 5.19 |   78.59   |  2/3 ⚠️ |
-|   6  | Texas Tech | 0.917 | 22.26 | 1.09 |   78.53   |  2/3 ⚠️ |
-|   7  | Oregon     | 0.917 | 19.12 | 3.70 |   77.27   |   1/3   |
-|   8  | Georgia    | 0.917 | 17.18 | 3.26 |   66.58   |   1/3   |
-|   9  | Miami (FL) | 0.833 | 19.25 | 4.25 |   59.93   |   0/3   |
-|  10  | Ole Miss   | 0.917 | 15.17 | 3.09 |   55.07   |   1/3   |
-
-#### **Key Insights from IC²:**
-- **Texas A&M #3**: Stats-only model recognizes their elite schedule (SOS 4.85) and strong performance
-- **Notre Dame #4**: Elite metrics (SRS 21.99, SOS 5.49) despite 2 losses—most polls underrate them
-- **0 perfect profiles in 2025**: No team meets all 3 champion criteria
-- **Ohio State & Indiana**: Both undefeated but untested (weak schedules may be exposed in playoff)
-
-## Contributing
-
-We welcome contributions! Here's how you can help:
-
-### 🤝 **Reporting Issues**
-Found a bug or have a suggestion? [Open an issue](https://github.com/danoff/IC2-Men-s-College-Football-Poll/issues).
-
-### Feature Requests
-Suggest new features or improvements:
-- Additional statistical features
-- Alternative modeling approaches
-- Visualization enhancements
-- Historical data expansion
-
-### Pull Requests
-
-We like pull requests (PRs)!
-
-### Additional Areas for Contribution
-- **Data**: Collect additional seasons or advanced metrics
-- **Models**: Experiment with different algorithms
-- **Visualization**: Create interactive dashboards
-- **Documentation**: Improve methodology explanations
-- **Tutorials**
-- Testing + CI improvements
 
 ## Citation
 
@@ -306,8 +313,6 @@ If you use the IC² Poll in academic work or publications, please cite:
         Developed with AI assistance from Claude Sonnet 4.5, ChatGPT 5.1, 
         and DeepSeek V3.2. MPL-2.0 License}
 ```
-
-
 
 ## Acknowledgments
 
