@@ -18,7 +18,7 @@ You can [read a PDF version of the preprint here](https://github.com/danoff/IC2-
 
 that started with this repository for an open-source men's American/gridiron college football 🏈 [CFP](https://en.wikipedia.org/wiki/College_Football_Playoff)-Era statistical ranking system. It's that provides quantitative rankings based on championship teams from the College Football Playoff era (2014–Present). It has  80% Championship Prediction Accuracy.
 
-## 19 Jan '26 Revised Poll for Championship (January 19th, 2026 Update)
+## 19 Jan '26 Update: Revised Poll for Championship 
 
 This final poll before the championship game includes results through January 10th.
 
@@ -60,7 +60,7 @@ This final poll before the championship game includes results through January 10
 |    34    | NC State       |   0.615   |    8.18   |   5.79   |    1.2    |     —    |      —     |      ❌ No     |            —            |
 |    35    | Old Dominion   |   0.769   |    6.88   |   -3.12  |    1.0    |     —    |      —     |      ❌ No     |            —            |
 
-## Revised Poll for Semifinals (January 8th, 2026 Update)
+## 8 Jan '26 Update: Revised Poll for Semifinals
 
 Ahead of the semifinal games that start tonight we have a revised poll! In addition to an [updated python Jupyter notebook](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/IC2%20Open%20Source%20College%20Football%20Poll%207%20January%202026%20for%20GitHub.ipynb), we also made the [data set](https://github.com/danoff/IC2-Men-s-College-Football-Poll/blob/main/cfb_school_tables_2026-01-02v1.csv) avaialble for the first time if you want to run the model on your own!
 
